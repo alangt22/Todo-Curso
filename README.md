@@ -14,7 +14,7 @@ Este projeto tem objetivo mostrar e gerenciar uma lista de tarefas, com save no 
 - Remover tarefa
 - Finalizar Tarefa
 - Editar Tarefa
-- Filtar por: feitos, a fazer e todos
+- Filtrar por: feitos, a fazer e todos
 - Filtrar pelo nome
 
 Projeto Web
